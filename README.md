@@ -2,9 +2,9 @@
 
 # chartify-service
 
-https://powerful-fortress-78429.herokuapp.com/api/movies/list
-https://powerful-fortress-78429.herokuapp.com/api/albums/list
-https://powerful-fortress-78429.herokuapp.com/api/deezer-albums/list
+https://powerful-fortress-78429.herokuapp.com/api/movies/list  
+https://powerful-fortress-78429.herokuapp.com/api/albums/list  
+https://powerful-fortress-78429.herokuapp.com/api/deezer-albums/list  
 
 ## Build Setup
 
